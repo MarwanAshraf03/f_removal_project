@@ -1,0 +1,13 @@
+paper for full body image feature representations for gender profiling:
+=>	https://pureadmin.qub.ac.uk/ws/files/3158864/Vs2009.pdf
+imagery 9144 datasets:
+=>	https://paperswithcode.com/datasets
+I think this is a website for detection of the 3D body shape through image (like detect
+if person is fat or thin according to their body photo):
+=>	https://shapy.is.tue.mpg.de/
+A github discussion on detecting gender through full body images:
+=>	https://github.com/matterport/Mask_RCNN/issues/909
+weird website of full body images:
+=>	https://www.paulconnorpsych.com/stimuli
+Men/Women dataset on kaggle (it is not quite full body but it is not just faces):
+=>	https://www.kaggle.com/datasets/playlist/men-women-classification?select=women
